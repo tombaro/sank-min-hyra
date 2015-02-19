@@ -10,11 +10,11 @@ msgstr ""
 "X-Generator: GlotPress/1.0-alpha-1000\n"
 "Project-Id-Version: Administration\n"
 
-#: wp-admin/about.php:137
+#: wp-admin/about.php:145
 msgid "Expanded JavaScript APIs in the customizer enable a new media experience as well as dynamic and contextual controls, sections, and panels."
 msgstr "Utvidgade APIer för JavaScript i anpassaren möjliggör en ny medieupplevelse samt dynamiska och kontextuella kontroller, sektioner och paneler."
 
-#: wp-admin/about.php:134
+#: wp-admin/about.php:142
 msgid "Metadata, date, and term queries now support advanced conditional logic, like nested clauses and multiple operators &mdash; %s."
 msgstr "Metadata-, datum- och term-queries har nu stöd för avancerad villkorslogik, så som nästlade klausuler och flera operatörer &mdash; %s."
 
@@ -34,88 +34,88 @@ msgstr "Dessa rekommendationer baseras på tillägg som du och andra användare 
 msgid "You can enable distraction-free writing mode using the icon to the right. This feature is not available for old browsers or devices with small screens, and requires that the full-height editor be enabled in Screen Options."
 msgstr "Du kan aktivera distraktionsfritt skrivläge via ikonen till höger. Den här funktionen är inte tillgänglig för äldre webbläsare eller enheter med små skärmar och kräver att fullhöjdsredigeraren är aktiverad under Panelinställningar."
 
-#: wp-admin/about.php:116
+#: wp-admin/about.php:124
 msgid "The <a href=\"%s\">plugin installer</a> suggests plugins for you to try. Recommendations are based on the plugins you and other users have installed."
 msgstr "<a href=\"%s\">Tilläggsinstalleraren</a> föreslår tillägg som du kan prova. Rekommendationerna baseras på tillägg som du och andra användare har installerade."
 
-#: wp-admin/about.php:103
+#: wp-admin/about.php:111
 msgid "Embedding videos from Vine is as simple as pasting a URL onto its own line in a post. See the <a href=\"%s\">full list</a> of supported embeds."
 msgstr "Att bädda in videos från Vine är så enkelt som att kopiera in en URL på en ny rad i ett inlägg. Se <a href=\"%s\">hela listan</a> med inbäddningar som stöds."
 
-#: wp-admin/about.php:109
+#: wp-admin/about.php:117
 msgid "If you&#8217;ve ever worried you forgot to sign out from a shared computer, you can now go to <a href=\"%s\">your profile</a> and log out everywhere."
 msgstr "Har du någon gång oroat dig för att du glömt logga ut från en delad dator? Nu kan du gå till <a href=\"%s\">dina profilinställningar</a> och logga ut från alla inloggade platser."
 
-#: wp-admin/about.php:45
+#: wp-admin/about.php:53
 msgid "Introducing Twenty&nbsp;Fifteen"
 msgstr "Vi presenterar Twenty&nbsp;Fifteen"
 
-#: wp-admin/about.php:77
+#: wp-admin/about.php:85
 msgid "Sometimes, you just need to concentrate on putting your thoughts into words. Try turning on <strong>distraction-free writing mode</strong>. When you start typing, all the distractions will fade away, letting you focus solely on your writing. All your editing tools instantly return when you need them."
 msgstr "Ibland behöver du koncentrera dig på att sätt ord på dina tankar. Testa att aktivera <strong>distraktionsfritt skrivläge</strong>. När du börjar skriva kommer alla distraktioner att tonas ut och låta dig fokusera helt på ditt skrivande. Alla dina redigeringsverktyg visas igen så snart du behöver dom."
 
-#: wp-admin/about.php:54
+#: wp-admin/about.php:62
 msgid "The straightforward typography is readable on any screen size."
 msgstr "Den enkla typografin är läsbar på alla skärmstorlekar."
 
-#: wp-admin/about.php:53
+#: wp-admin/about.php:61
 msgid "Twenty Fifteen has flawless language support, with help from <a href=\"%s\">Google&#8217;s Noto font family</a>."
 msgstr "Twenty Fifteen har fulländat språkstöd, med hjälp av <a href=\"%s\">Google&#8217;s typsnittsfamilj Noto</a>."
 
-#: wp-admin/about.php:52
+#: wp-admin/about.php:60
 msgid "Our newest default theme, Twenty Fifteen, is a blog-focused theme designed for clarity."
 msgstr "Vårt nya standardtema, Twenty Fifteen, är ett bloggfokuserat tema designat med tydlighet åtanke."
 
-#: wp-admin/about.php:89
+#: wp-admin/about.php:97
 msgid "Choose a language"
 msgstr "Välj ett språk"
 
-#: wp-admin/about.php:108
+#: wp-admin/about.php:116
 msgid "Log out everywhere"
 msgstr "Logga ut överallt"
 
-#: wp-admin/about.php:102
+#: wp-admin/about.php:110
 msgid "Vine embeds"
 msgstr "Vine-inbäddningar"
 
-#: wp-admin/about.php:133
+#: wp-admin/about.php:141
 msgid "Complex Queries"
 msgstr "Komplexa queries"
 
-#: wp-admin/about.php:149
+#: wp-admin/about.php:157
 msgid "Continued improvements to inline code documentation have made the <a href=\"%s\">developer reference</a> more complete than ever."
 msgstr "Fortsatt förbättring av den inbyggd dokumentationen för kod har gjort <a href=\"%s\">utvecklingsreferensen</a> mer komplett än någonsin."
 
-#: wp-admin/about.php:148
+#: wp-admin/about.php:156
 msgid "Developer Reference"
 msgstr "Utvecklingsreferens"
 
-#: wp-admin/about.php:145
+#: wp-admin/about.php:153
 msgid "%s tells WordPress to handle the complexities of document titles."
 msgstr "%s hjälper WordPress att hantera komplexiteten i dokumenttitlar."
 
 #. translators: %s: "<title>" tag
-#: wp-admin/about.php:142
+#: wp-admin/about.php:150
 msgid "%s tags in themes"
 msgstr "%s taggar i teman"
 
-#: wp-admin/about.php:114
+#: wp-admin/about.php:122
 msgid "Plugin recommendations"
 msgstr "Tilläggsrekommendationer"
 
-#: wp-admin/about.php:92
+#: wp-admin/about.php:100
 msgid "Right now, WordPress %1$s is already translated into %2$s languages, with more always in progress. You can switch to any translation on the <a href=\"%3$s\">General Settings</a> screen."
 msgstr "Just nu är WordPress %1$s översatt på %2$s språk, med fler översättningar under utveckling. Du kan byta till valfritt språk under <a href=\"%3$s\">Allmänna inställningar</a>."
 
-#: wp-admin/about.php:68
+#: wp-admin/about.php:76
 msgid "Distraction-free writing"
 msgstr "Distraktionsfritt författande"
 
-#: wp-admin/about.php:84
+#: wp-admin/about.php:92
 msgid "The Finer Points"
 msgstr "Det finstilta"
 
-#: wp-admin/about.php:55
+#: wp-admin/about.php:63
 msgid "Your content always takes center stage, whether viewed on a phone, tablet, laptop, or desktop computer."
 msgstr "Ditt innehåll står alltid i centrum, oavsett om de visas på en telefon, surfplatta, bärbar dator eller en stationär dator."
 
@@ -302,28 +302,28 @@ msgctxt "term parent"
 msgid "Parent"
 msgstr "Förälder"
 
-#: wp-admin/includes/ajax-actions.php:1838
+#: wp-admin/includes/ajax-actions.php:1845
 msgid "You don't have permission to upload files."
 msgstr "Du har inte tillräcklig behörighet för att ladda upp filer."
 
-#: wp-admin/includes/ajax-actions.php:1847
+#: wp-admin/includes/ajax-actions.php:1859
 msgid "You don't have permission to attach files to this post."
 msgstr "Du har inte tillräcklig behörighet för att bifoga filer till detta inlägg."
 
-#: wp-admin/includes/ajax-actions.php:2708
+#: wp-admin/includes/ajax-actions.php:2738
 msgid "This preview is unavailable in the editor."
 msgstr "Denna förhandsgranskning är inte tillgänglig i redigeraren."
 
-#: wp-admin/includes/ajax-actions.php:2785
+#: wp-admin/includes/ajax-actions.php:2815
 msgid "Could not log out user sessions. Please try again."
 msgstr "Kunde inte avsluta inloggningssession. Vänligen försök igen."
 
-#: wp-admin/includes/ajax-actions.php:2793
+#: wp-admin/includes/ajax-actions.php:2823
 msgid "You are now logged out everywhere else."
 msgstr "Du är nu utloggad överallt annars."
 
 #. translators: 1: User's display name.
-#: wp-admin/includes/ajax-actions.php:2797
+#: wp-admin/includes/ajax-actions.php:2827
 msgid "%s has been logged out."
 msgstr "%s har loggats ut."
 
@@ -413,7 +413,7 @@ msgstr "Alla filer du har laddat upp listas i mediabiblioteket, med senaste uppl
 msgid "If you just want to get an idea of what&#8217;s available, you can browse Featured and Popular plugins by using the links in the upper left of the screen. These sections rotate regularly."
 msgstr "Om du bara vill få en uppfattning om vad som finns tillgängligt, kan du bläddra bland utvalda och populära tillägg med hjälp av länkarna i den övre vänstra delen av sidan. Dessa avsnitt roterar regelbundet."
 
-#: wp-admin/about.php:136
+#: wp-admin/about.php:144
 msgid "Customizer API"
 msgstr "API för anpassaren"
 
@@ -619,7 +619,7 @@ msgstr[1] "Klicka för att se omdömen med %d stjärnor"
 msgid "Contributors"
 msgstr "Bidragslämnare"
 
-#: wp-admin/includes/ajax-actions.php:2678
+#: wp-admin/includes/ajax-actions.php:2708
 msgid "%s failed to embed."
 msgstr "%s kunde inte bäddas in."
 
@@ -2198,7 +2198,7 @@ msgid "Uploaded to"
 msgstr "Uppladdad till"
 
 #: wp-admin/custom-background.php:432 wp-admin/custom-header.php:871
-#: wp-admin/includes/ajax-actions.php:1862
+#: wp-admin/includes/ajax-actions.php:1879
 msgid "The uploaded file is not a valid image. Please try again."
 msgstr "Den uppladdade filen är inte en giltig bildfil. Vänligen försök igen."
 
@@ -2986,6 +2986,16 @@ msgctxt "start of week"
 msgid "1"
 msgstr "1"
 
+#. translators: default GMT offset or timezone string. Must be either a valid
+#. offset (-12 to 14)
+#. or a valid timezone string (America/New_York). See
+#. http:us3.php.net/manual/en/timezones.php
+#. for all timezone strings supported by PHP.
+#: wp-admin/includes/schema.php:361
+msgctxt "default GMT offset or timezone string"
+msgid "0"
+msgstr "Europe/Stockholm"
+
 #. translators: 1: month number (01, 02, etc.), 2: month abbreviation
 #: wp-admin/includes/template.php:750
 msgid "%1$s-%2$s"
@@ -3546,18 +3556,18 @@ msgstr "Visa verktygsrad på framsidan"
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. Singular
 #. security issue.
-#: wp-admin/about.php:199
+#: wp-admin/about.php:207
 msgid "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed a security issue and fixed %2$s bugs."
 msgstr[0] "<strong>Version %1$s</strong> åtgärdar en säkerhetsrisk och %2$s bugg."
 msgstr[1] "<strong>Version %1$s</strong> åtgärdar en säkerhetsrisk och %2$s buggar."
 
-#: wp-admin/about.php:206
+#: wp-admin/about.php:48 wp-admin/about.php:214
 msgid "For more information, see <a href=\"%s\">the release notes</a>."
 msgstr "För mer information, se <a href=\"%s\">detaljer för releasen</a>."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs.
-#: wp-admin/about.php:195
+#: wp-admin/about.php:46 wp-admin/about.php:203
 msgid "<strong>Version %1$s</strong> addressed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed %2$s bugs."
 msgstr[0] "<strong>Version %1$s</strong> åtgärdar %2$s bugg."
@@ -3565,7 +3575,7 @@ msgstr[1] "<strong>Version %1$s</strong> åtgärdar %2$s buggar."
 
 #. translators: 1: WordPress version number, 2: plural number of bugs. More
 #. than one security issue.
-#: wp-admin/about.php:203
+#: wp-admin/about.php:211
 msgid "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bug."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues and fixed %2$s bugs."
 msgstr[0] "<strong>Version %1$s</strong> åtgärdar ett par sårbarheter och %2$s bugg."
@@ -3575,13 +3585,13 @@ msgstr[1] "<strong>Version %1$s</strong> åtgärdar ett par sårbarheter och %2$
 msgid "Welcome to your WordPress Dashboard! This is the screen you will see when you log in to your site, and gives you access to all the site management features of WordPress. You can get help for any screen by clicking the Help tab in the upper corner."
 msgstr "Välkommen till din adminpanel för WordPress! Detta är sidan du kommer att se när du loggar in på din webbplats. Den ger dig tillgång till alla administrativa sidor för att hantera din webbplats.. Du kan hitta hjälp för alla sidor i administrationen genom att klicka på fliken Hjälp uppe i hörnet."
 
-#: wp-admin/about.php:186
+#: wp-admin/about.php:45 wp-admin/about.php:194
 msgid "Maintenance Release"
 msgid_plural "Maintenance Releases"
 msgstr[0] "Underhållsrelease"
 msgstr[1] "Underhållsreleaser"
 
-#: wp-admin/about.php:187
+#: wp-admin/about.php:195
 msgid "Security Release"
 msgid_plural "Security Releases"
 msgstr[0] "Säkerhetsrelease"
@@ -3591,14 +3601,14 @@ msgstr[1] "Säkerhetsreleaser"
 msgid "What&#8217;s New"
 msgstr "Vad är nytt"
 
-#: wp-admin/about.php:188
+#: wp-admin/about.php:196
 msgid "Maintenance and Security Release"
 msgid_plural "Maintenance and Security Releases"
 msgstr[0] "Underhålls och säkerhetsrelease"
 msgstr[1] "Underhålls och säkerhetsreleaser"
 
 #. translators: 1: WordPress version number.
-#: wp-admin/about.php:191
+#: wp-admin/about.php:199
 msgid "<strong>Version %1$s</strong> addressed a security issue."
 msgid_plural "<strong>Version %1$s</strong> addressed some security issues."
 msgstr[0] "<strong>Version %1$s</strong> åtgärdar en sårbarhet."
@@ -3612,7 +3622,7 @@ msgstr "Den här sidan låter dig välja din förinställda permalänksstruktur,
 msgid "Welcome to WordPress %1$s. <a href=\"%2$s\">Learn more</a>."
 msgstr "Välkommen till WordPress %1$s. <a href=\"%2$s\">Läs mer</a>."
 
-#: wp-admin/about.php:158
+#: wp-admin/about.php:166
 msgid "Return to Updates"
 msgstr "Återgå till uppdateringar"
 
@@ -3908,11 +3918,11 @@ msgstr "Troligen används direkt infogande av wp-admin/includes/template.php fö
 msgid "Welcome to WordPress %s"
 msgstr "Välkommen till WordPress %s"
 
-#: wp-admin/about.php:158
+#: wp-admin/about.php:166
 msgid "Return to Dashboard &rarr; Updates"
 msgstr "Återgå till Adminpanel &rarr; Uppdateringar"
 
-#: wp-admin/about.php:162
+#: wp-admin/about.php:170
 msgid "Go to Dashboard &rarr; Home"
 msgstr "Gå till Adminpanel &rarr; Hem"
 
@@ -3924,7 +3934,7 @@ msgstr "WordPress är skapat av ett världsomspännande team av passionerade ind
 msgid "Core Developers"
 msgstr "Kärnutvecklare"
 
-#: wp-admin/about.php:129
+#: wp-admin/about.php:137
 msgid "Under the Hood"
 msgstr "Under huven"
 
@@ -6572,7 +6582,7 @@ msgstr[1] "Insticksprogram <span class=\"count\">(%s)</span>"
 msgid "This address is used for admin purposes. If you change this we will send you an e-mail at your new address to confirm it. <strong>The new address will not become active until confirmed.</strong>"
 msgstr "Den här adressen används för administrativa behov. Om du ändrar den så kommer vi att skicka ett meddelande till din nya adress för att bekräfta den. <strong>Den nya adressen kommer att börja gälla först när den bekräftats.</strong>"
 
-#: wp-admin/about.php:162
+#: wp-admin/about.php:170
 msgid "Go to Dashboard"
 msgstr "Gå till adminpanelen"
 
@@ -9842,7 +9852,7 @@ msgstr "Installera nu"
 msgid "No plugins match your request."
 msgstr "Inga tillägg matchade din efterfrågan."
 
-#: wp-admin/includes/ajax-actions.php:2627
+#: wp-admin/includes/ajax-actions.php:2657
 #: wp-admin/includes/plugin-install.php:471
 msgid "(based on %s rating)"
 msgid_plural "(based on %s ratings)"
@@ -10333,11 +10343,11 @@ msgctxt "column name"
 msgid "Title"
 msgstr "Titel"
 
-#: wp-admin/edit-form-advanced.php:541 wp-admin/includes/ajax-actions.php:2059
+#: wp-admin/edit-form-advanced.php:541 wp-admin/includes/ajax-actions.php:2089
 msgid "Last edited by %1$s on %2$s at %3$s"
 msgstr "Senast ändrat av %1$s den %2$s kl. %3$s"
 
-#: wp-admin/edit-form-advanced.php:543 wp-admin/includes/ajax-actions.php:2061
+#: wp-admin/edit-form-advanced.php:543 wp-admin/includes/ajax-actions.php:2091
 msgid "Last edited on %1$s at %2$s"
 msgstr "Senast ändrat den %1$s kl. %2$s"
 
@@ -10378,7 +10388,7 @@ msgstr "&raquo;"
 msgid "Comment %d does not exist"
 msgstr "Kommentar %d existerar inte."
 
-#: wp-admin/includes/taxonomy.php:113
+#: wp-admin/includes/taxonomy.php:116
 msgid "You did not enter a category name."
 msgstr "Du angav inget kategorinamn."
 
