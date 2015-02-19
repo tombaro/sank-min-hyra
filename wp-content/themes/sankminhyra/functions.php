@@ -56,3 +56,6 @@ if ( ! function_exists( 'sankminhyra_setup' ) ) :
 
 endif; // sankminhyra_setup
 add_action( 'after_setup_theme', 'sankminhyra_setup' );
+
+// Register Custom Navigation Walker
+require_once( 'wp_bootstrap_navwalker.php' );
