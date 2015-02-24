@@ -13,7 +13,7 @@
 
 	<div class="navbar-wrapper">
 
-		<nav class="navbar navbar-inverse navbar-fixed-top">
+		<nav class="navbar navbar-default navbar-fixed-top">
 		
 			<?php 
 				// Fix menu overlap bug..
@@ -28,7 +28,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#">Project name</a>
+					<a class="navbar-brand" href="#start">Hem</a> <?php //TODO: Get first page to link to for smooth scrolling ?>				
 				</div>
 				<div class="collapse navbar-collapse navbar-responsive-collapse" id="main-navigation">
 				<?php
