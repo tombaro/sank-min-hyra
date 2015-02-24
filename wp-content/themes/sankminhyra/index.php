@@ -28,10 +28,12 @@ Template Name: Default page Template
 				$title = $page_data->post_title;
 				$slug = $page_data->post_name;
 			?>
-				<div class='<?php echo "$slug" ?> container' id="<?php echo $slug ?>">
-					<h2><?php echo "$title" ?></h2>
-					<?php echo "$content" ?>
-					<a href="#top" rel="m_PageScroll2id">top</a>
+				<div class='<?php echo "$slug" ?>' id="<?php echo $slug ?>">
+					<div class="container">
+						<h2><?php echo "$title" ?></h2>
+						<?php echo "$content" ?>
+						<a href="#top" rel="m_PageScroll2id">top</a>
+					</div>
 				</div>
 				
 	<?php //endwhile; ?>
