@@ -13,7 +13,13 @@
 
 	<div class="navbar-wrapper">
 
-		<nav class="navbar navbar-inverse navbar-static-top">
+		<nav class="navbar navbar-inverse navbar-fixed-top">
+		
+			<?php 
+				// Fix menu overlap bug..
+				if ( is_admin_bar_showing() ) echo '<div style="min-height: 32px;"></div>'; 
+			?>
+
 			<div class="container">
 				<div class="navbar-header">
 					<button type="button" class="navbar-toggle collapsed" data-toggle="collapse" data-target="#main-navigation" aria-expanded="false" aria-controls="navbar">
