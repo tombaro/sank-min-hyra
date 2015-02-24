@@ -6,7 +6,7 @@ Template Name: Default page Template
 
 <?php get_header(); ?>
 
-	<div class="container">
+	<div class="container-fluid">
 		<?php //while ( have_posts() ) : the_post(); ?>
 			<?php
 				$args = array(
