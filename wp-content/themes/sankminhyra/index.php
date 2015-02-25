@@ -28,7 +28,7 @@ Template Name: Default page Template
 				$title = $page_data->post_title;
 				$slug = $page_data->post_name;
 			?>
-				<div class='<?php echo "$slug" ?> clearfix' id="<?php echo $slug ?>">
+				<div class='<?php echo "$slug" ?> section clearfix' id="<?php echo $slug ?>">
 					<div class="container">
 						<h2><?php echo "$title" ?></h2>
 						<?php echo "$content" ?>
