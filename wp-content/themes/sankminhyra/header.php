@@ -28,7 +28,7 @@
 						<span class="icon-bar"></span>
 						<span class="icon-bar"></span>
 					</button>
-					<a class="navbar-brand" href="#start">Hem</a> <?php //TODO: Get first page to link to for smooth scrolling ?>				
+					<a class="navbar-brand" rel="m_PageScroll2id" href="#start">Hem</a> <?php //TODO: Get first page to link to for smooth scrolling ?>				
 				</div>
 				<div class="collapse navbar-collapse navbar-responsive-collapse" id="main-navigation">
 				<?php
