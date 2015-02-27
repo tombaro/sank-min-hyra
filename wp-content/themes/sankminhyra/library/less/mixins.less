@@ -1,0 +1,15 @@
+.content-header-image-size() {
+	background-size: 100% @content-header-image-height;
+
+	@media (min-width: @screen-sm-min) { 
+		background-size: 100% @content-header-image-height * 1.5;
+	}
+
+	@media (min-width: @screen-md-min) {
+		background-size: 100% @content-header-image-height * 1.7;
+	}
+
+	@media (min-width: @screen-lg-min) {
+		background-size: 100% @content-header-image-height * 2;
+	}
+}
