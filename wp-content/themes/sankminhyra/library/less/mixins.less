@@ -13,3 +13,19 @@
 		background-size: 100% @content-header-image-height * 2;
 	}
 }
+
+.content-text-placement() {
+	margin-bottom: @content-text-placement;
+
+	@media (min-width: @screen-sm-min) { 
+		margin-bottom: @content-text-placement * 1.5;
+	}
+
+	@media (min-width: @screen-md-min) {
+		margin-bottom: @content-text-placement * 1.8;
+	}
+
+	@media (min-width: @screen-lg-min) {
+		margin-bottom: @content-text-placement * 2.1;
+	}	
+}
