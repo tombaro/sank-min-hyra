@@ -30,7 +30,9 @@ Template Name: Default page Template
 			?>
 				<div class='<?php echo "$slug" ?> section clearfix' id="<?php echo $slug ?>">
 					<div class="container">
-						<h2><?php echo "$title" ?></h2>
+						<div class="transparent-box">
+							<h2><?php echo "$title" ?></h2>
+						</div>
 						<?php echo "$content" ?>
 					</div>
 				</div>

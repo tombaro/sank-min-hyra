@@ -1,6 +1,14 @@
 .home {
-	.section:nth-child(2n+1) h2 {
-		.content-text-placement();	
+	.section:nth-child(2n+1) .transparent-box {
+		.content-text-placement();
+	}
+
+	.section:nth-child(2n+2) .transparent-box {
+		background-color: transparent;
+
+		h2 {
+			text-align: left;
+		}
 	}
 }
 
@@ -10,7 +18,7 @@
 
 #start {
 
-	h2 {
+	.transparent-box {
 		display: none;
 	}
 
