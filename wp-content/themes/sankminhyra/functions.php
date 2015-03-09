@@ -8,6 +8,7 @@ function sankminhyra_scripts() {
 	wp_register_style( 'sankminhyra-stylesheet', get_template_directory_uri() . '/library/css/style.css', array(), '', 'all' );
 
 	wp_enqueue_script( 'bootstrap-js', '//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.3.1/js/bootstrap.min.js', array( 'jquery' ) );
+	wp_enqueue_script( 'sankminhyra-js', get_template_directory_uri() . '/library/js/sankminhyra.js', array( 'jquery' ), 'sankminhyra', true );
 	wp_enqueue_style( 'sankminhyra-stylesheet' );
 }
 add_action( 'wp_enqueue_scripts', 'sankminhyra_scripts' );
