@@ -52,8 +52,20 @@
 }
 
 #kontakt {
-	background: url('../assets/content_header_audience.jpg') no-repeat;
-	.content-header-image-size();
+	background: url('../assets/content_header_audience_768.jpg') no-repeat;
+
+	@media (min-width: @screen-sm-min) { 
+		background: url('../assets/content_header_audience_992.jpg') no-repeat;
+	}
+
+	@media (min-width: @screen-md-min) {
+		background: url('../assets/content_header_audience_1200.jpg') no-repeat;
+	}
+
+	@media (min-width: @screen-lg-min) {
+		background: url('../assets/content_header_audience.jpg') no-repeat;
+	}
+
 }
 
 #material {
